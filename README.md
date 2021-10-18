@@ -69,5 +69,6 @@ python -m torch.distributed.launch --master_port=3142 --nproc_per_node 8 --use_e
 ```
 
 ## Acknowledgement
+This code is copied from gaopengcuhk. For experimental purposes only. Original link is https://github.com/gaopengcuhk/Stable-Pix2Seq. 
 DETR 
 
